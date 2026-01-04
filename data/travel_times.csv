@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_local,timezone_local,origin,destination,distance_m,distance_text,duration_s,duration_text,duration_in_traffic_s,duration_in_traffic_text,weekday_local,hour_local
+2026-01-04 10:34:45,2026-01-04 11:34:45,Europe/Berlin,"51.150368,6.893793","51.105461,6.943102",9876,9.9 km,936,16 mins,838,14 mins,Sunday,11
