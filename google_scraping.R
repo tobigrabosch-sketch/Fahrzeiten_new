@@ -8,7 +8,7 @@ lapply(needed, library, character.only = TRUE)
 # --- Einstellungen ---
 # Koordinaten: Achtung: In Deutschland ist der Längengrad POSITIV (Ost) – also KEIN Minuszeichen!
 origin      <- "51.105447,6.943168"   # kein Leerzeichen nach dem Komma ist auch ok
-destination <- "51.150573,6.893665"
+destination <- "51.150477,6.893747"
 
 # Zeitzone und Zeitfenster (lokal)
 tz_loc <- "Europe/Berlin"
